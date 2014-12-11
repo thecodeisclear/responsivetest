@@ -61,10 +61,13 @@
                 {
                     "name": "Sony",
                     "devices": [
-                        { "name": "Xperia Z1",     "w": 1080, "h": 1920,  "inch": "5.0", "pxd": 3 },
-                        { "name": "Xperia Z2",     "w": 1080, "h": 1920,  "inch": "5.2", "pxd": 3 },
-						{ "name": "Xperia Z3",     "w": 1080, "h": 1920,  "inch": "5.2", "pxd": 3 },
-						{ "name": "Xperia E3",     "w": 480,  "h": 854,   "inch": "4.5", "pxd": 1.5 }
+                        { "name": "Xperia Z1",      "w": 1080, "h": 1920,  "inch": "5.0", "pxd": 3 },
+                        { "name": "Xperia Z1 Cmpt", "w": 720,  "h": 1280,  "inch": "4.3", "pxd": 2 },
+                        { "name": "Xperia Z2",      "w": 1080, "h": 1920,  "inch": "5.2", "pxd": 3 },
+			{ "name": "Xperia Z3",      "w": 1080, "h": 1920,  "inch": "5.2", "pxd": 3 },
+			{ "name": "Xperia Z3 Cmpt", "w": 720,  "h": 1280,  "inch": "4.6", "pxd": 2 },
+			{ "name": "Xperia M",       "w": 480,  "h": 854,   "inch": "4.0", "pxd": 1.5 },
+			{ "name": "Xperia E3",      "w": 480,  "h": 854,   "inch": "4.5", "pxd": 1.5 }
                     ]
                 }
             ]
