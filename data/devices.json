@@ -57,6 +57,15 @@
                         { "name": "Optimus G Pro", "w": 1080, "h": 1920, "inch": "5.5", "pxd": 3 },
                         { "name": "Nexus 4",       "w": 768,  "h": 1280, "inch": "4.7", "pxd": 2 }
                     ]
+                },
+                {
+                    "name": "Sony",
+                    "devices": [
+                        { "name": "Xperia Z1",     "w": 1080, "h": 1920,  "inch": "5.0", "pxd": 3 },
+                        { "name": "Xperia Z2",     "w": 1080, "h": 1920,  "inch": "5.2", "pxd": 3 },
+						{ "name": "Xperia Z3",     "w": 1080, "h": 1920,  "inch": "5.2", "pxd": 3 },
+						{ "name": "Xperia E3",     "w": 480,  "h": 854,   "inch": "4.5", "pxd": 1.5 }
+                    ]
                 }
             ]
         },
